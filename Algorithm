@@ -1,4 +1,4 @@
-AIm
+AIM
 To write and execute Python programs to demonstrate different types of inheritance in Python, namely:
 Hierarchical Inheritance – A single parent class is inherited by multiple child classes.
 Single Inheritance – One child class inherits the properties and methods of a parent class.
